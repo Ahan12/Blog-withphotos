@@ -1,1 +1,1 @@
-# Blog-withphotos
+# Blogwithphotos
